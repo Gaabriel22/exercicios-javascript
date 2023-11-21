@@ -1,4 +1,4 @@
-# Exercícios de JavaScript - OneBitCode
+# Exercícios de JavaScript
 ## Robô da Tabuada
 ### Descrição
 O "Robô da Tabuada" é um programa simples em JavaScript que calcula e exibe a tabuada de um número fornecido pelo usuário.
